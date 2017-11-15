@@ -1,3 +1,9 @@
 body {
     background-color: rgb(202, 202, 211);
 }
+header {
+    border: 1px solid black;
+}
+.nav {
+
+}
