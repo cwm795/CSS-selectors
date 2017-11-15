@@ -1,9 +1,19 @@
-body {
-    background-color: red);
-}
+
 header {
     border: 1px solid black;
 }
-.nav {
+nav {
+    height: 3em;
+}
+
+nav li {
+    float: left;
+list-style-type: none;
+margin: .5em 1em 0 1em;
+text-align: center;
+
+}
+
+li {
 
 }
