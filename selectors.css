@@ -28,7 +28,24 @@ text-align: center;
     color: red;
 }
 
+.redSibling {
+    background-color: red;
+}
+
+
 
 .blue {
     color: blue;
+    background-color: white;
+}
+
+.blueSibling {
+    background-color: blue;
+
+}
+
+.grandchild {
+    border: 1px solid gold;
+        border-radius: 25px;
+        padding: 5px;
 }
