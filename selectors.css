@@ -14,9 +14,6 @@ text-align: center;
 
 }
 
-li {
-
-}
 
 .disabled {
     color: grey;
@@ -25,4 +22,13 @@ li {
 
 .active {
     color: yellow;
+}
+
+.red {
+    color: red;
+}
+
+
+.blue {
+    color: blue;
 }
