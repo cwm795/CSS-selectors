@@ -49,3 +49,12 @@ text-align: center;
         border-radius: 25px;
         padding: 5px;
 }
+
+footer span input {
+    height: 25px;
+}
+
+.promo {
+    color: gold;
+    font-weight: bold;
+}
